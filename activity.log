@@ -68,3 +68,5 @@
 2025-10-18 18:17:00 | INFO | repo=arquillian-phantom-binary | action=commit
 2025-04-18 20:31:00 | WARN | repo=arquillian-phantom-binary | action=commit
 2025-01-05 15:26:00 | DEBUG | repo=arquillian-phantom-binary | action=commit
+2025-02-17 13:25:00 | WARN | repo=arquillian-phantom-binary | action=edit | files=3
+2025-01-23 19:20:00 | DEBUG | repo=arquillian-phantom-binary | action=commit
